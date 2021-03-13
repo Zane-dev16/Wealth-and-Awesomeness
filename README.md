@@ -1,2 +1,2 @@
-# Weath-and-Awesomeness
+# Wealth-and-Awesomeness
 Private website for Wealth and Awesomeness
